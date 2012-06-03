@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<layout title="Formulario Registro de Clases de Eventos" option="Formulario de Registro de Clases de Eventos">
+		<help
+			key="Muestra el formulario de Registro de Clases de Eventos"
+		/>
+		<message>
+			<![CDATA[COM_USER_REGISTRATION_VIEW_DEFAULT_DESC]]>
+		</message>
+	</layout>
+</metadata>
